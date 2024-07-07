@@ -22,8 +22,6 @@ Categorical Insights: Categorical variables showed varying distributions, which 
 
 Model Performance: The trained model demonstrated robust performance with a cross-validation MSE score, indicating good predictive capability. The R2 score further confirmed the model’s explanatory power.
 
-Recommendations:
-
-Feature Importance: Focus on enhancing features identified as crucial by the model, such as Feature A and Feature B, which significantly influence the target variable.
+Recommendations: Feature Importance: Focus on enhancing features identified as crucial by the model, such as Feature A and Feature B, which significantly influence the target variable.
 Optimization Strategies: Explore strategies to handle outliers in numeric variables to potentially improve model robustness.
 Further Analysis: Conduct deeper analysis into categorical variables to uncover hidden patterns that could enhance segmentation strategies.
