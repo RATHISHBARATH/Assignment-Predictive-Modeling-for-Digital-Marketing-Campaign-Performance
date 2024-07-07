@@ -1,3 +1,5 @@
+# I used this script to create randam data set
+
 import pandas as pd
 import numpy as np
 import random
@@ -70,3 +72,5 @@ def create_download_link(filename):
 
 # Display the download link
 create_download_link(file_name)
+
+# I used this script to create randam data set
