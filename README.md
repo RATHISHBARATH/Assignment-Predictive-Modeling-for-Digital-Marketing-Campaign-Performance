@@ -4,15 +4,25 @@
 Developed and implemented a comprehensive data analysis and machine learning pipeline to predict and improve the performance of digital marketing campaigns. Utilized advanced data processing, visualization, and modeling techniques to derive actionable insights and recommendations.
 
 Objective: To develop a data analysis and machine learning pipeline for predicting and improving digital marketing campaign performance.
+
 Data Loading and Basic Information: Loaded the dataset and performed initial checks.
+
 Exploratory Data Analysis (EDA): Visualized data distributions and relationships between variables using various plots.
+
 Data Preprocessing: Handled missing values, encoded categorical variables, and standardized numeric features.
+
 Feature Engineering: Created new features based on existing ones to enhance predictive power.
+
 Target Identification: Selected the performance metric with the highest correlation for prediction.
+
 Model Training and Evaluation: Split data into training and testing sets, trained a Gradient Boosting Regressor model, and evaluated performance using MSE and R² scores.
+
 Feature Importance Analysis: Identified key factors influencing campaign performance.
+
 Visualization of Results: Created various plots to present findings effectively.
+
 Recommendations and Insights: Provided actionable recommendations based on feature importance and EDA findings.
+
 Tools and Technologies: Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Gradient Boosting Regressor, GridSearchCV.
 
 
